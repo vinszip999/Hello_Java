@@ -18,6 +18,13 @@ public class Content {
 //		- c나 c++과는 다르게 어려운 메모리 관리에 대한 부분을 자동으로 처리해준다는 장점이 있다.
 //		- Garbage Collector가 자동으로 메모리를 정리해준다. 
 		
+		
+//		<자바 개발 환경 구축>
+//		자바로 개발을 하기위해선 JDK를 설치해야 한다.
+//		JDK는 "Java Development Kit"으로 "자바 개발자 도구"의 약자이다.
+//
+//		오라클 사이트에서 다운받는다.
+
 
 	} // end of main
 
